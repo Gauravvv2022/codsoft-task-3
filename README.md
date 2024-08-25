@@ -1,1 +1,1 @@
-# codsoft-task-3
+A calculator built with HTML, CSS, and JavaScript offers a simple and interactive tool for performing basic arithmetic operations. HTML structures the interface with buttons and display areas, CSS styles it with a clean layout and responsive design, and JavaScript handles the logic for calculations, ensuring a smooth and functional user experience.
